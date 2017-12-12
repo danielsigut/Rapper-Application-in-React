@@ -4,6 +4,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 const ExtractTextPlugin = require('extract-text-webpack-plugin');
 
+
 const paths = {
   DIST: path.resolve(__dirname, 'dist'),
   JS: path.resolve(__dirname, 'src/js'),
