@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+ h2, h3 {
+  margin-top: 1em;
+  font-family: Arial;
+  text-align:center;
+  line-height: 1.25em;
+}
+
+h3 {
+  margin: 0;
+}
+
+img {
+  width: 200px;
+  height: 175px;
+}
+
+.rapperDiv {
+  border: 1px dashed black;
+  width: 400px;
+  display: block;
+  margin-left: 1em;
+  margin: 0 auto;
+  margin-bottom: 1em;
+}
+
+
+.navbar.navbar-default {
+  color: black;
+  border-bottom: 1px dashed black;
+}
+
+.navbar-brand {
+  font-size: 35px;
+  margin-left: 1em;
+  text-align: center;
+}
+
+.navbar-nav .nav-item a {
+  color: black;
+  text-transform: uppercase;
+}
